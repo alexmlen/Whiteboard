@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_151" class="java.beans.XMLDecoder">
+ <array class="DShapeModel" length="4">
+  <void index="0">
+   <object class="DRectModel" id="DRectModel0">
+    <void id="Rectangle0" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>115</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>169</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>194</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>64</int>
+      </void>
+     </void>
+    </void>
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>0</int>
+      <int>0</int>
+      <int>153</int>
+      <int>255</int>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="DOvalModel" id="DOvalModel0">
+    <void id="Rectangle1" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>16</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>75</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>76</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>298</int>
+      </void>
+     </void>
+    </void>
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>204</int>
+      <int>255</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="DLineModel" id="DLineModel0">
+    <void id="Rectangle2" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>33</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>108</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>262</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>322</int>
+      </void>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="DTextModel" id="DTextModel0">
+    <void id="Rectangle3" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>51</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>92</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>265</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>52</int>
+      </void>
+     </void>
+    </void>
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>204</int>
+      <int>0</int>
+      <int>204</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="font">
+     <string>Papyrus</string>
+    </void>
+    <void property="text">
+     <string>Whoa</string>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>

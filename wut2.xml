@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_151" class="java.beans.XMLDecoder">
+ <array class="DShapeModel" length="4">
+  <void index="0">
+   <object class="DRectModel" id="DRectModel0">
+    <void id="Rectangle0" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>49</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>161</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>54</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>182</int>
+      </void>
+     </void>
+    </void>
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>153</int>
+      <int>0</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="DOvalModel" id="DOvalModel0">
+    <void id="Rectangle1" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>107</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>194</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>205</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>81</int>
+      </void>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="DLineModel" id="DLineModel0">
+    <void id="Rectangle2" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>33</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>56</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>321</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>128</int>
+      </void>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="DTextModel" id="DTextModel0">
+    <void id="Rectangle3" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>91</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>109</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>146</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>94</int>
+      </void>
+     </void>
+    </void>
+    <void property="font">
+     <string>Wingdings 2</string>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
